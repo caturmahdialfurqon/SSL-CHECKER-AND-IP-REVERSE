@@ -14,15 +14,16 @@ This script can be use for CHECK SSL and Reverse IP Domain.
 <img src="/IMG/reverseip.png" width=400>
 
 # SSL CHECKER
-## 1
+
 <img src="/IMG/1-sslcheck.png" width=400>
-## 2
-<img src="/IMG/2-sslcheck.png" width=400>
+
+<img src="/IMG/2-sslcheck.png.png" width=400>
 
 # SOURCE
 
 ## for IP REVERSE
-[![Fairssl.com ](https://www.fairssl.net/en/ssltest/)]
+
+https://www.fairssl.net/en/ssltest/
 
 ## 🤜🏻🤛🏻 For Support
 
