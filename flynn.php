@@ -38,7 +38,6 @@ $y ------------------------------------------------------------------
 \n";
 	$domain = readline("$pt Enter Target Domain Here $y => $lb ");
 	$ex = "php sslchecker.php {$domain}";
-	echo $ex;
 	system("$ex");
 }
 
