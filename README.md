@@ -2,6 +2,11 @@
 
 This script can be use for CHECK SSL and Reverse IP Domain.
 
+# USAGE
+
+## JUST RUN php flynn.php
+## Or if you want to use just for check SSL
+=> php sslcheck.php [domain] / [domain domain] *(for multiple check)* 
 
 ## 👋 screenshot for this script
 
