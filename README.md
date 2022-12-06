@@ -1,4 +1,4 @@
-# SSL CHECKER AND IP REVERSE TOOLS
+# SSL CHECKER AND REVERSE IP TOOLS
 
 This script can be use for CHECK SSL and Reverse IP Domain.
 
@@ -16,7 +16,7 @@ This script can be use for CHECK SSL and Reverse IP Domain.
 
 <img src="/IMG/1.png" width=400>
 
-# FOR IP/DOMAIN REVERSE
+# FOR REVERSE IP/DOMAIN
 
 <img src="/IMG/reverseip.png" width=400>
 
