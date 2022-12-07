@@ -30,7 +30,7 @@ This script can be use for CHECK SSL and Reverse IP Domain.
 
 ## for IP REVERSE
 
-https://www.fairssl.net/en/ssltest/
+https://www.yougetsignal.com/
 
 ## 🤜🏻🤛🏻 For Support
 
